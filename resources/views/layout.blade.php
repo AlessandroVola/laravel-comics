@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    DC COMICS
+    
+    @include ('partials.header')
+
 </body>
 </html>
